@@ -1,0 +1,14 @@
+version 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favican.ico
+    - Vince-Bloise-Resume-2018-c1.pdf
+    - styles/main.css
+    - images/*
+    
