@@ -1,4 +1,4 @@
-version 0.1
+version: 0.1
 
 phases:
   build:
@@ -7,8 +7,7 @@ phases:
 artifacts:
   files:
     - index.html
-    - favican.ico
+    - favicon.ico
     - Vince-Bloise-Resume-2018-c1.pdf
     - styles/main.css
     - images/*
-    
