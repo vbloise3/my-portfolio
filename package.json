@@ -1,0 +1,9 @@
+{
+  "name": "my-portfolio",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "local-web-server": "2.6.1",
+    "hammerjs": "^2.0.8"
+  }
+}
