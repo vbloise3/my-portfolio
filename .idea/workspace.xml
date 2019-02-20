@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94a41dd-1955-4410-b05f-2843aaad5651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/babel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="babel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="babel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/babel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="168">
+              <caret line="26" column="6" selection-start-line="26" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="react.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="55" column="89" selection-start-line="55" selection-start-column="89" selection-end-line="55" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -47,8 +55,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="package_json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,6 +70,7 @@
         <option value="$PROJECT_DIR$/upload-portfolio-lambda.py" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/babel.html" />
+        <option value="$PROJECT_DIR$/react.html" />
       </list>
     </option>
   </component>
@@ -158,12 +167,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550535065845</updated>
       <workItem from="1550675633442" duration="2295000" />
-      <workItem from="1550678147830" duration="3000000" />
+      <workItem from="1550678147830" duration="6533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5295000" />
+    <option name="totallyTimeSpent" value="8828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -263,8 +272,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/babel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="168">
+          <caret line="26" column="6" selection-start-line="26" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="55" column="89" selection-start-line="55" selection-start-column="89" selection-end-line="55" selection-end-column="89" />
         </state>
       </provider>
     </entry>
