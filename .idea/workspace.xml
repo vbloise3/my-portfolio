@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/__tests__/test-example-work.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="278">
-              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -213,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550535065845</updated>
       <workItem from="1550675633442" duration="2295000" />
-      <workItem from="1550678147830" duration="30385000" />
+      <workItem from="1550678147830" duration="30561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32680000" />
+    <option name="totallyTimeSpent" value="32856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -461,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/__tests__/test-example-work.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
