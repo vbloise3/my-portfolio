@@ -22,8 +22,7 @@ def lambda_handler(event, context):
                 if artifact["name"] == "MyAppBuild":
                     location = artifact["location"]["s3Location"]
 
-        print
-        "Building portfolio from " + str(location)
+        print ("Building portfolio from " + str(location))
 
         s3 = boto3.resource('s3', config=Config(signature_version='s3v4'))
 
@@ -38,8 +37,8 @@ def lambda_handler(event, context):
                 obj = myzip.open(nm)
                 portfolio_bucket.upload_fileobj(obj, nm, ExtraArgs={'ContentType': mimetypes.guess_type(nm)[0]})
                 portfolio_bucket.Object(nm).Acl().put(ACL='public-read')
-        print
-        "job done!"
+
+        print ("job done!")
         topic.publish(Subject="Portfolio Deployed", Message="Portfolio deployed successfully!")
         if job:
             codepipeline = boto3.client('codepipeline')
