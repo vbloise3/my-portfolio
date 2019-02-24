@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'module:react';
 import ReactDom from 'react-dom';
 import ExampleWork from './example-work';
 
