@@ -49,5 +49,9 @@ describe("ExampleWorkBubble component", () => {
 
    it("Should have the image source set correctly", () => {
        expect(images.prop('src')).toEqual(myWork[1].image.src);
+   });
+
+   it("Should the title set correctly", () => {
+       expect(component.title).toEqual(myWork[1].title);
    })
 });
