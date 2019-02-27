@@ -45,6 +45,8 @@ describe("ExampleWorkBubble component", () => {
 
    let titles = component.find("dt");
 
+   let dataLists = component.find("dl");
+
    it("Should contain a single 'img' element", () => {
        expect(images.length).toEqual(1);
    });
@@ -55,5 +57,9 @@ describe("ExampleWorkBubble component", () => {
 
    it("Should contain a single 'dt' tag", () => {
        expect(titles.length).toEqual(1);
-   })
+   });
+
+    it("Should contain a single 'dl' tag", () => {
+        expect(dataLists.length).toEqual(1);
+    })
 });
