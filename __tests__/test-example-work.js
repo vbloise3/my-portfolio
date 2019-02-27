@@ -43,6 +43,8 @@ describe("ExampleWorkBubble component", () => {
 
    let images = component.find("img");
 
+   let titles = component.find("dt");
+
    it("Should contain a single 'img' element", () => {
        expect(images.length).toEqual(1);
    });
@@ -51,7 +53,7 @@ describe("ExampleWorkBubble component", () => {
        expect(images.prop('src')).toEqual(myWork[1].image.src);
    });
 
-   it("Should the title set correctly", () => {
-       expect(component.title).toEqual(myWork[1].title);
+   it("Should contain a single 'dt' tag", () => {
+       expect(titles.length).toEqual1);
    })
 });

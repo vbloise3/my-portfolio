@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94a41dd-1955-4410-b05f-2843aaad5651" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__tests__/test-example-work.js" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/test-example-work.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="test-example-work.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/__tests__/test-example-work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            <state relative-caret-position="556">
+              <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -240,12 +239,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550535065845</updated>
       <workItem from="1550675633442" duration="2295000" />
-      <workItem from="1550678147830" duration="35403000" />
+      <workItem from="1550678147830" duration="35632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37698000" />
+    <option name="totallyTimeSpent" value="37927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="40" width="1883" height="957" extended-state="0" />
@@ -510,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/__tests__/test-example-work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state relative-caret-position="556">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
