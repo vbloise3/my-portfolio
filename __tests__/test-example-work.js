@@ -54,6 +54,6 @@ describe("ExampleWorkBubble component", () => {
    });
 
    it("Should contain a single 'dt' tag", () => {
-       expect(titles.length).toEqual1);
+       expect(titles.length).toEqual(1);
    })
 });
